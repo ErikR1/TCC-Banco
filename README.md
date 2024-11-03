@@ -4,7 +4,7 @@
 Documetos usados no TCC estão disponíveis na pasta X deste repositório
 
 # A Pasta X possui:
-- Fotos detalhas
+% Fotos detalhas
 - Plantas detalhadas
 - Lista de Materiais
 - Arquivos de Projeto(3D CAD)
